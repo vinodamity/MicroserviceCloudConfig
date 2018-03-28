@@ -1,2 +1,2 @@
 # MicroserviceCloudConfig
-Repositoy for maintaining of microseerices configuration
+Repository for maintaining of microservice's configuration
